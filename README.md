@@ -8,3 +8,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 3. [2022-09-15] CT complex exponential signals and the Fourier series representation
 4. [2022-09-20] Properties of the CT Fourier series and the Gibbs phenomenon 
 5. [2022-09-22] The DT Fourier series 
+6. [2022-09-27] Introducing filters 
