@@ -10,4 +10,5 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 5. [2022-09-22] The DT Fourier series 
 6. [2022-09-27] Introducing filters 
 7. [2022-09-29] Fun with filters 
-8. [2022-10-03] Introducing the Fourier transform
+8. [2022-10-04] Introducing the Fourier transform
+8. [2022-10-06] Properties of the CT Fourier transform 
