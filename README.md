@@ -11,4 +11,5 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 6. [2022-09-27] Introducing filters 
 7. [2022-09-29] Fun with filters 
 8. [2022-10-04] Introducing the Fourier transform
-8. [2022-10-06] Properties of the CT Fourier transform 
+9. [2022-10-06] Properties of the CT Fourier transform 
+10. [2022-10-11] More properties of the CT Fourier transform 
