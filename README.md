@@ -15,3 +15,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 10. [2022-10-11] More properties of the CT Fourier transform 
 11. [2022-10-13] Midterm 1
 12. [2022-10-18] The DT Fourier transform 
+13. [2022-10-20] The fast Fourier transform
