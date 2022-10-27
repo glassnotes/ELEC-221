@@ -16,3 +16,5 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 11. [2022-10-13] Midterm 1
 12. [2022-10-18] The DT Fourier transform 
 13. [2022-10-20] The fast Fourier transform
+14. [2022-10-25] Hands on with the 2D Fourier transform
+15. [2022-10-27] Time and frequency domain analysis I
