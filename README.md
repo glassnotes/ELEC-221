@@ -20,3 +20,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 15. [2022-10-27] Time and frequency domain analysis I
 16. [2022-11-01] Time and frequency domain analysis II
 17. [2022-11-03] The sampling theorem
+18. [2022-11-08] CT/DT signals and sampling
