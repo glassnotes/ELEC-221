@@ -21,3 +21,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 16. [2022-11-01] Time and frequency domain analysis II
 17. [2022-11-03] The sampling theorem
 18. [2022-11-08] CT/DT signals and sampling
+19. [2022-11-15] Hands on: the Karplus-Strong algorithm
