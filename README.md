@@ -22,3 +22,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 17. [2022-11-03] The sampling theorem
 18. [2022-11-08] CT/DT signals and sampling
 19. [2022-11-15] Hands on: the Karplus-Strong algorithm
+20. [2022-11-17] Amplitude modulation
