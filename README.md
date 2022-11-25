@@ -24,3 +24,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 19. [2022-11-15] Hands on: the Karplus-Strong algorithm
 20. [2022-11-17] Amplitude modulation
 21. [2022-11-22] Modulation and communication systems
+22. [2022-11-24] The Laplace transform
