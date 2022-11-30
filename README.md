@@ -26,3 +26,4 @@ Lecture materials for the ELEC 221 Signals and Systems course at UBC.
 21. [2022-11-22] Modulation and communication systems
 22. [2022-11-24] The Laplace transform
 23. [2022-11-29] The Laplace transform: properties and system analysis
+24. [2022-12-01] The Laplace transform and feedback systems; introducing the z-transform
