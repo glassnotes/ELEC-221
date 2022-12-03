@@ -1,7 +1,5 @@
 # Topic list and suggested problems
 
-(Note: this table will be updated with additional chapter 10-11 problems on 6 December after Lecture 25 is finished)
-
 | Chapter | Topic | Sections covered | Lectures | Suggested problems |
 |:----|-|-|-|-|
 | 1 | Signals and Systems | All | 1, 3 | 1.3, 1.9, 1.15-1.19, 1.26-1.28, 1.40-1.42, 1.46 |
@@ -25,7 +23,7 @@
  * Define signals and systems, and provide real-world examples of each
  * Express continuous-time and discrete-time signals as functions mathematically and in Python
  * Apply time shifts, time scaling, and time reversal transforms to a signal
- * Identify whether a system has the following properties: linear, causal, memoryless, time invariant, stable, invertible |
+ * Identify whether a system has the following properties: linear, causal, memoryless, time invariant, stable, invertible 
 
 ### Lecture 2
 
@@ -171,7 +169,7 @@
 
 ### Lecture 25
 
- * use the $z$-transform to determine whether a system is causal or stable
- * apply the $z$-transform to systems described by difference equations
- * analyze simple feedback systems with the $z$-transform 
+ * use the z-transform to determine whether a system is causal or stable
+ * apply the z-transform to systems described by difference equations
+ * analyze simple feedback systems with the z-transform 
  
