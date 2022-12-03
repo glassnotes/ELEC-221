@@ -13,7 +13,7 @@
 | 7 | Sampling | All | 17, 18 | 7.1-7.7, 7.17, 7.18, 7.20, 7.21, 7.25, 7.30, 7.32  | 
 | 8 | Communication systems | 8.0-8.4, 8.8 | 20, 21 | 8.1, 8.2, 8.4, 8.7-8.9,  8.15, 8.17-8.19, 8.21, 8.22, 8.26, 8.28,  8.32, 8.40, 8.41 |
 | 9 | Laplace transform | 9.0-9.3, 9.5-9.7.4 | 22, 23, 24 |  9.1-9.9,  9.13-9.16, 9.21, 9.22, 9.26,  9.29, 9.32, 9.33, 9.48| 
-| 10 | Z-transform | 10.0-10.3, 10.5-10.7 | 24, 25 | 10.1-10.8, 10.21-10.23, 10.26 | 
+| 10 | Z-transform | 10.0-10.3, 10.5-10.7 | 24, 25 | 10.1-10.8, 10.13-10.16 10.21-10.23, 10.25-10.27, 10.31, 10.33-10.35 | 
 | 11 | Feedback systems | 11.0-11.2 | 24, 25|  11.1-11.4 | 
 
 
@@ -171,6 +171,7 @@
 
 ### Lecture 25
 
- *TBD*
- 
+ * use the $z$-transform to determine whether a system is causal or stable
+ * apply the $z$-transform to systems described by difference equations
+ * analyze simple feedback systems with the $z$-transform 
  
