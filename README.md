@@ -11,3 +11,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-09-17] CT convolution integral; the impulse response and system properties
 1. [2024-09-19] CT Fourier series
 1. [2024-09-24] CT Fourier series coefficients and properties
+1. [2024-09-26] CT and DT Fourier series
