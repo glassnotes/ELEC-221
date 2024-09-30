@@ -12,3 +12,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-09-19] CT Fourier series
 1. [2024-09-24] CT Fourier series coefficients and properties
 1. [2024-09-26] CT and DT Fourier series
+1. [2024-10-01] DT Fourier series
