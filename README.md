@@ -16,3 +16,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-10-03] DT Fourier series coefficients; filters
 1. [2024-10-10] Introducing the Fourier transform
 1. [2024-10-15] Properties of the CT Fourier Transform
+1. [2024-10-17] The CT Fourier transform properties: convolution and multiplication
