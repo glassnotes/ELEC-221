@@ -20,3 +20,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-10-22] Differentiation and integration properties; systems based on
    differential equations
 1. [2024-10-24] Analysis of CT systems based on first- and second-order differential equations
+1. [2024-10-29] The discrete-time Fourier transform
