@@ -22,3 +22,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-10-24] Analysis of CT systems based on first- and second-order differential equations
 1. [2024-10-29] The discrete-time Fourier transform
 1. [2024-10-31] DT systems based on difference equations
+1. [2024-11-07] The sampling theorem
