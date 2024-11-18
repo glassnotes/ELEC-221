@@ -24,3 +24,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-10-31] DT systems based on difference equations
 1. [2024-11-07] The sampling theorem
 1. [2024-11-14] CT/DT conversion and sampling DT signals
+1. [2024-11-19] Amplitude modulation
