@@ -28,3 +28,4 @@ Materials for the 2022 version of the course can be found under "Releases".
 1. [2024-11-21] Modulation and communication systems
 1. [2024-11-26] The Laplace transform
 1. [2024-11-28] The Laplace transform: properties and system analysis
+1. [2024-12-03] The Laplace transform and feedback systems; introducing the $z$-transform
