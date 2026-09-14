@@ -6,3 +6,5 @@ Materials for previous versions of the course can be found in [Releases](https:/
 ## Lecture contents
 
 1. [2026-09-10] Overview and intro to signals and systems
+1. [2026-09-15] LTI systems, DT impulse response and the convolution sum
+
