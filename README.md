@@ -12,3 +12,4 @@ Materials for previous versions of the course can be found in [Releases](https:/
 1. [2026-09-24] Impulse response stability and causality; CT Fourier series
 1. [2026-09-29] CT Fourier series coefficients and properties 
 1. [2026-10-01] CT Fourier series and filters
+1. [2026-10-16] DT Fourier series and filters
