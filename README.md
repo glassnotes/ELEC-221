@@ -14,3 +14,4 @@ Materials for previous versions of the course can be found in [Releases](https:/
 1. [2026-10-01] CT Fourier series and filters
 1. [2026-10-06] DT Fourier series and filters
 1. [2026-10-08] DT Fourier series and filters (part 2)
+1. [2026-10-13] DT filters; Introducing the Fourier transform
