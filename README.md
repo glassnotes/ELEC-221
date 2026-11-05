@@ -21,3 +21,4 @@ Materials for previous versions of the course can be found in [Releases](https:/
 1. [2026-10-27] Analysis of CT systems based on first- and second-order differential equations
 1. [2026-10-29] Analysis of CT systems based on differential equations
 1. [2026-11-03] The DT Fourier transform
+1. [2026-11-05] DT systems based on difference equations; the sampling theorem
