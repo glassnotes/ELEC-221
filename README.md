@@ -24,3 +24,4 @@ Materials for previous versions of the course can be found in [Releases](https:/
 1. [2026-11-05] DT systems based on difference equations; the sampling theorem
 1. [2026-11-12] CT/DT conversion and sampling DT signals
 1. [2026-11-17] Sampling DT signals; amplitude modulation
+1. [2026-11-19] Modulation and communication systems
