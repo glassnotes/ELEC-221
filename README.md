@@ -25,3 +25,4 @@ Materials for previous versions of the course can be found in [Releases](https:/
 1. [2026-11-12] CT/DT conversion and sampling DT signals
 1. [2026-11-17] Sampling DT signals; amplitude modulation
 1. [2026-11-19] Modulation and communication systems
+1. [2026-11-24] Modulation and communication systems; introducing the Laplace transform
